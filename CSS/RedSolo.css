@@ -1,5 +1,5 @@
 body {
-	background-image: url(images/background.jpg);
+	background-image: url(Images/background.jpg);
 }
 
 .nav {
@@ -20,12 +20,12 @@ body {
 }
 .pics{
     width: 600px;
-    height 500px;
+    height: 500px;
 }
 .inline {
     display: inline-block;
 }
 .centerme{
-    marign:0 auto;
+    margin: 0 auto;
     text-align: center;
 }

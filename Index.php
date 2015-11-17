@@ -7,7 +7,7 @@
 		<?php include "header.php" ?>
         
         <div id="content">
-		<img class =" pics" src="images/fullgroup.jpg" alt="A a full group photo from our photoshoot.">
+		<img class =" pics" src="Images/fullgroup.jpg" alt="A a full group photo from our photoshoot.">
         </div>
         
 	</body>

@@ -1,5 +1,5 @@
  <nav class="nav centerme">
-		  <ul class = "centerme inline">
+		  <ul class = "centerme ">
               <li class="inline"><a  href="Index.php">HOME</a></li>
               <li class="inline"><a  href="history.php">HISTORY</a></li>
               <li class="inline"><a  href="members.php">MEMBERS</a></li>
