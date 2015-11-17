@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 	<head>
-		<link rel="stylesheet" href="RedSolo.css">
+		<link rel="stylesheet" href="CSS/RedSolo.css">
 	</head>
 	<body>
 		<?php include "header.php" ?>
