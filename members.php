@@ -1,18 +1,18 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-	
+<link rel="stylesheet" href="CSS/RedSolo.css">
 </head>
 <body>
 	<?php include "header.php" ?>
-	<div>
+	<div class="icy_back">
 		<p>
 Emily McAllister '18 
 New Rochelle, NY 
 Kumbaya chair 
 Soprano
 Fun Fact: I hate Oreos  </p>
-		<img src="Images/IMG_1002.jpg" alt="Emily's picture">
+		<img class = "pics" src="Images/IMG_1002.jpg" alt="Emily's picture">
 	</div>
 	<div>
 		<p>Samantha Fischetti
@@ -92,7 +92,7 @@ Fun Fact: Is a brother in Alpha Sigma Phi
 		<img src="" alt="">
 	</div>
 	<div>
-		<p>Carolyn Von Walter '16
+		 class="icy_back"<p>Carolyn Von Walter '16
 West Palm Beach, FL
 Fun Fact: Humans of Cornell University Photographer
 Tenor</p>

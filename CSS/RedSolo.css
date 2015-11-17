@@ -7,7 +7,11 @@ body {
 	background-color: rgba(255,255,255,.42);
 	color: white;
 }
-
+.icy_back{
+    background-color: white;
+    background-color: rgba(255,255,255,.4);
+    color: black;
+}
 #content {
     background-color: rgba(255,255,255,.42);
     margin-top: 5%;
