@@ -10,7 +10,8 @@ body {
 .icy_back{
     background-color: white;
     background-color: rgba(255,255,255,.4);
-    color: black;
+    color: white;
+    text-align: center;
 }
 #content {
     background-color: rgba(255,255,255,.42);
@@ -21,9 +22,15 @@ body {
     border-radius: 25px;
     border-color: black;
 }
+.bio_pics{
+    width: 600px;
+    height: 500px;
+    float: left;
+}
 .pics{
     width: 600px;
     height: 500px;
+
 }
 .inline {
     display: inline-block;
