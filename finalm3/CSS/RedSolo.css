@@ -1,0 +1,53 @@
+body {
+	background-image: url(../Images/background.jpg);
+}
+
+.nav {
+	background-color: white;
+	background-color: rgba(255,255,255,.42);
+	color: white;
+}
+.icy_back{
+    background-color: white;
+    background-color: rgba(255,255,255,.4);
+    color: white;
+    text-align: center;
+}
+#content {
+    background-color: rgba(255,255,255,.42);
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+}
+.bio_pics{
+    width: 90px;
+    height: 80px;
+}
+.pics{
+    width: 600px;
+    height: 500px;
+
+}
+.inline {
+    display: inline-block;
+}
+.centerme{
+    margin: 0 auto;
+    text-align: center;
+}
+
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: white;
+}
+
