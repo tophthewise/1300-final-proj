@@ -7,7 +7,7 @@
 <Body>
 	<?php include "../components/header.php" ?>
 	<br><br>
-	<Table class=" icy_back centerme">
+	<Table class=" nav icy_back centerme">
 		<tr>
 			<td>Location</td>
 			<td>Perfomance</td>
@@ -32,7 +32,8 @@
 			<td>TBD</td>
 			<td>TBD</td>
 		</tr>
+		
 	</Table>
-    <p>Background Image from: <a href="http://chambermusicad.org/wp-content/uploads/2014/03/abstract-music-background.jpg">chambermusicad.org</a></p>   
+    <p class= "centerme "><a href="http://chambermusicad.org/wp-content/uploads/2014/03/abstract-music-background.jpg">Background Image from: chambermusicad.org</a></p>   
 </Body>
 </html>
