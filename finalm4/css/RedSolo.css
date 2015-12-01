@@ -1,0 +1,145 @@
+body {
+	background-image: url(../Images/background.jpg);
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+@font-face{
+    font-family: swanky;
+    src: url(../fonts/fontdinerswanky.ttf);
+}
+@font-face{
+    font-family: lobster;
+    src: url(../fonts/lobstervar4.otf);
+}
+a{
+    text-decoration: none;
+}
+p{
+    color:black;
+    font-weight: bold;
+ font-family: 'Dosis', sans-serif;
+}
+.nav {
+/*
+	background-color: white;
+	background-color: rgba(255,255,255,.3);
+*/
+	color: white;
+    font-family: lobster;
+    border-radius: 3em;
+}
+.icy_back{
+    background-color: white;
+    background-color: rgba(255,255,255,.695);
+    color: white;
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+        border-radius: 2em;
+    padding: 1%;
+   
+
+
+}
+.table {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 2em;
+    background-color: white;
+    background-color: rgba(255,255,255,.4);
+    color: white;
+    font-family: 'Dosis', sans-serif;
+    border-radius: 2em;
+}
+h2 {
+    text-decoration: underline;
+    font-size: 1.5em;
+    padding-left: 0px;
+    margin-bottom: 0px;
+}
+.columns {
+    -webkit-column-count: 2; 
+    -moz-column-count: 2; 
+    column-count: 2;
+    font-family: 'Dosis', sans-serif;
+
+    
+}
+
+.left{
+    text-align:left;
+    margin-left: 80px;
+}
+#content {
+    background-color: white;
+    background-color: rgba(255,255,255,.52);
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+}
+.coverphoto {
+    background-color: rgba(255,255,255,.52);
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+}
+.bio_pics{
+    width: 250px;
+    height: 150px;
+}
+.emilypic {
+    width:200px;
+    height:130px;
+}
+.pics{
+    width: 1000px;
+    height: 580px;
+
+}
+.inline {
+    display: inline-block;
+}
+.inline2 {
+    display: inline-block;
+    width:200px;
+    
+}
+.centerme{
+    text-align: center;
+    margin: 0 auto;
+}
+.spaceme{
+    margin:.4em .4em .4em .4em;
+}
+.fatpad{
+    padding: .005em 0 .005em 0 ;
+}
+a{
+    font-size: 2em;
+   
+
+
+}
+a:link {
+    color: #b30000 ;
+;
+}
+
+a:hover {
+    color: white;
+}
+a:visited{
+    color: #b30000 ; 
+}
+footer {
+    font-size:.8em;
+    color:white;
+    text-align: center;
+}
+form {
+    padding: 20px;
+}
