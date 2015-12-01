@@ -33,7 +33,7 @@ Pretty cool dude<br>
 Tenor<br>
 Fun fact: He has tasted the second hottest hot sauce in the world.</p>
 		<br>
-		<img src="../images/Bami.jpg" alt="" class="bio_pics">
+		<img src="../images/bami.jpg" alt="" class="bio_pics">
 		<p class= "inline2">Ayobami Adebowale<br>
 Dix Hills, NY<br>
 Soprano <br>
