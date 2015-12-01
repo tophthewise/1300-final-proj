@@ -2,7 +2,7 @@
 <html>
 <Head>
 	<title>Shows</title>
-	<link rel="stylesheet" href="../CSS/RedSolo.css">
+	<link rel="stylesheet" href="../css/redsolo.css">
     <link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 </Head>
 <Body>

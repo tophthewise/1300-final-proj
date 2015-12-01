@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
-<link rel="stylesheet" href="../CSS/RedSolo.css">
+<link rel="stylesheet" href="../css/redsolo.css">
 <title>Members</title>
     <link href='https://fonts.googleapis.com/css?family=Dosis' rel='stylesheet' type='text/css'>
 </head>
