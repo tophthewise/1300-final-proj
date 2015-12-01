@@ -1,10 +1,11 @@
 body {
 	background-image: url(../Images/background.jpg);
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
 }
 
 .nav {
 	background-color: white;
-	background-color: rgba(255,255,255,.42);
+	background-color: rgba(255,255,255,.3);
 	color: white;
 }
 .icy_back{
@@ -14,7 +15,7 @@ body {
     text-align: center;
 }
 #content {
-    background-color: rgba(255,255,255,.42);
+    background-color: rgba(255,255,255,.52);
     margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
@@ -35,6 +36,27 @@ body {
     display: inline-block;
 }
 .centerme{
-    margin: 0 auto;
     text-align: center;
+    margin: 0 auto;
 }
+.spaceme{
+    margin:.4em .4em .4em .4em;
+}
+.fatpad{
+    padding: .005em 0 .005em 0 ;
+}
+a{
+    font-size: 2em;
+}
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: red;
+}
+
