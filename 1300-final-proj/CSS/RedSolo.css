@@ -1,0 +1,62 @@
+body {
+	background-image: url(../Images/background.jpg);
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+
+.nav {
+	background-color: white;
+	background-color: rgba(255,255,255,.3);
+	color: white;
+}
+.icy_back{
+    background-color: white;
+    background-color: rgba(255,255,255,.4);
+    color: white;
+    text-align: center;
+}
+#content {
+    background-color: rgba(255,255,255,.52);
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+}
+.bio_pics{
+    width: 90px;
+    height: 80px;
+}
+.pics{
+    width: 600px;
+    height: 500px;
+
+}
+.inline {
+    display: inline-block;
+}
+.centerme{
+    text-align: center;
+    margin: 0 auto;
+}
+.spaceme{
+    margin:.4em .4em .4em .4em;
+}
+.fatpad{
+    padding: .005em 0 .005em 0 ;
+}
+a{
+    font-size: 2em;
+}
+a:link {
+    color: white;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: red;
+}
+

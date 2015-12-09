@@ -1,0 +1,82 @@
+body {
+	background-image: url(../Images/background.jpg);
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+}
+@font-face{
+    font-family: swanky;
+    src: url(../fonts/fontdinerswanky.ttf);
+}
+a{
+    text-decoration: none;
+}
+.nav {
+	background-color: white;
+	background-color: rgba(255,255,255,.3);
+	color: white;
+    font-family: swanky;
+    border-radius: 3em;
+}
+.icy_back{
+    background-color: white;
+    background-color: rgba(255,255,255,.4);
+    color: white;
+    text-align: center;
+
+}
+.left{
+    float:left;
+}
+#content {
+    background-color: white;
+    background-color: rgba(255,255,255,.52);
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+    border-radius: 25px;
+    border-color: black;
+}
+.bio_pics{
+    width: 100px;
+    height: 100px;
+}
+.pics{
+    width: 600px;
+    height: 500px;
+
+}
+.inline {
+    display: inline-block;
+}
+.inline2 {
+    display: inline-block;
+    width:200px;
+}
+.centerme{
+    text-align: center;
+    margin: 0 auto;
+}
+.spaceme{
+    margin:.4em .4em .4em .4em;
+}
+.fatpad{
+    padding: .005em 0 .005em 0 ;
+}
+a{
+    font-size: 2em;
+   
+
+
+}
+a:link {
+    color: red;
+}
+
+a:hover {
+    color: white;
+}
+a:visited{
+    color: red; 
+}
+
+
+
